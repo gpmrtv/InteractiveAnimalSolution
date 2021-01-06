@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveAnimals.Core", "InteractiveAnimals.Core\InteractiveAnimals.Core.csproj", "{477B8E4D-39DD-4B0D-A240-7FCD9693DDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveAnimals.WPF", "InteractiveAnimals.WPF\InteractiveAnimals.WPF.csproj", "{C6575BEE-673D-4A25-9874-D79C4AC252D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477B8E4D-39DD-4B0D-A240-7FCD9693DDBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477B8E4D-39DD-4B0D-A240-7FCD9693DDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477B8E4D-39DD-4B0D-A240-7FCD9693DDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477B8E4D-39DD-4B0D-A240-7FCD9693DDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6575BEE-673D-4A25-9874-D79C4AC252D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6575BEE-673D-4A25-9874-D79C4AC252D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6575BEE-673D-4A25-9874-D79C4AC252D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6575BEE-673D-4A25-9874-D79C4AC252D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18679C4E-A54F-41CE-9D68-63D7B7881D02}
+	EndGlobalSection
+EndGlobal
